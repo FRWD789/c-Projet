@@ -1,0 +1,6 @@
+﻿  Game.cpp
+D:\C++automne2024\projetC++\Game.cpp(9,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\C++automne2024\projetC++\Game.cpp(208,17): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\C++automne2024\projetC++\Game.cpp(313,23): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\C++automne2024\projetC++\Game.cpp(328,19): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  projetC++.vcxproj -> D:\C++automne2024\projetC++\x64\Debug\projetC++.exe
